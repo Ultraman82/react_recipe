@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/https//Ultraman82.github.io/react_recipe/static/css/main.01b4869d.chunk.css",
-    "main.js": "/https//Ultraman82.github.io/react_recipe/static/js/main.dab182ce.chunk.js",
-    "main.js.map": "/https//Ultraman82.github.io/react_recipe/static/js/main.dab182ce.chunk.js.map",
-    "runtime-main.js": "/https//Ultraman82.github.io/react_recipe/static/js/runtime-main.c8f57f05.js",
-    "runtime-main.js.map": "/https//Ultraman82.github.io/react_recipe/static/js/runtime-main.c8f57f05.js.map",
-    "static/js/2.d6596562.chunk.js": "/https//Ultraman82.github.io/react_recipe/static/js/2.d6596562.chunk.js",
-    "static/js/2.d6596562.chunk.js.map": "/https//Ultraman82.github.io/react_recipe/static/js/2.d6596562.chunk.js.map",
-    "index.html": "/https//Ultraman82.github.io/react_recipe/index.html",
-    "precache-manifest.835388038cd3644ddbf231140d71bdc2.js": "/https//Ultraman82.github.io/react_recipe/precache-manifest.835388038cd3644ddbf231140d71bdc2.js",
-    "service-worker.js": "/https//Ultraman82.github.io/react_recipe/service-worker.js",
-    "static/css/main.01b4869d.chunk.css.map": "/https//Ultraman82.github.io/react_recipe/static/css/main.01b4869d.chunk.css.map",
-    "static/js/2.d6596562.chunk.js.LICENSE.txt": "/https//Ultraman82.github.io/react_recipe/static/js/2.d6596562.chunk.js.LICENSE.txt"
+    "main.css": "/react_recipe/static/css/main.01b4869d.chunk.css",
+    "main.js": "/react_recipe/static/js/main.59810d91.chunk.js",
+    "main.js.map": "/react_recipe/static/js/main.59810d91.chunk.js.map",
+    "runtime-main.js": "/react_recipe/static/js/runtime-main.4e1dd03e.js",
+    "runtime-main.js.map": "/react_recipe/static/js/runtime-main.4e1dd03e.js.map",
+    "static/js/2.d6596562.chunk.js": "/react_recipe/static/js/2.d6596562.chunk.js",
+    "static/js/2.d6596562.chunk.js.map": "/react_recipe/static/js/2.d6596562.chunk.js.map",
+    "index.html": "/react_recipe/index.html",
+    "precache-manifest.5cfbc8d7040f64bc7a5c09b1f27c72ce.js": "/react_recipe/precache-manifest.5cfbc8d7040f64bc7a5c09b1f27c72ce.js",
+    "service-worker.js": "/react_recipe/service-worker.js",
+    "static/css/main.01b4869d.chunk.css.map": "/react_recipe/static/css/main.01b4869d.chunk.css.map",
+    "static/js/2.d6596562.chunk.js.LICENSE.txt": "/react_recipe/static/js/2.d6596562.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8f57f05.js",
+    "static/js/runtime-main.4e1dd03e.js",
     "static/js/2.d6596562.chunk.js",
     "static/css/main.01b4869d.chunk.css",
-    "static/js/main.dab182ce.chunk.js"
+    "static/js/main.59810d91.chunk.js"
   ]
 }
